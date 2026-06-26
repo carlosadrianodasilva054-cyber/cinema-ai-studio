@@ -1,1 +1,86 @@
+# ===================================================
+# CASM Knowledge Base
+# Emotion: Courage
+# ===================================================
 
+id: E001
+
+name: Courage
+
+description: The emotional state of moving forward despite fear.
+
+psychology:
+
+  objective: Inspire action
+
+  initial_state: Fear
+
+  final_state: Determination
+
+cinematography:
+
+  camera:
+
+    preferred:
+
+      - Dolly In
+
+      - Tracking Shot
+
+      - Crane Up
+
+    avoid:
+
+      - Static Wide Shot
+
+lighting:
+
+  contrast: High
+
+  atmosphere:
+
+    - Smoke
+
+    - Backlight
+
+    - Volumetric Light
+
+color:
+
+  palette:
+
+    - Steel Blue
+
+    - Silver
+
+    - Black
+
+sound:
+
+  ambience:
+
+    - Wind
+
+    - Metal
+
+  music:
+
+    - Epic Percussion
+
+    - Low Brass
+
+editing:
+
+  rhythm: Progressive
+
+narrative:
+
+  structure: Hero Journey
+
+  climax: Victory
+
+message:
+
+  Fear is temporary.
+
+  Courage keeps moving.
