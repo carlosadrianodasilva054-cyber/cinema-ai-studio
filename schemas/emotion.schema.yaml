@@ -1,0 +1,62 @@
+# ===================================================
+# CASM - Emotion Schema
+# Version: 0.1 Alpha
+# ===================================================
+
+id: ""
+
+name: ""
+
+description: ""
+
+psychology:
+
+  objective: ""
+
+  initial_state: ""
+
+  final_state: ""
+
+cinematography:
+
+  camera:
+
+    preferred: []
+
+    avoid: []
+
+lighting:
+
+  contrast: ""
+
+  atmosphere: []
+
+color:
+
+  palette: []
+
+sound:
+
+  ambience: []
+
+  music: []
+
+editing:
+
+  rhythm: ""
+
+narrative:
+
+  structure: ""
+
+  climax: ""
+
+message: ""
+
+metadata:
+
+  version: "0.1"
+
+  author: "CASM"
+
+  created: ""
